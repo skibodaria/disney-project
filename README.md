@@ -15,3 +15,6 @@ Several functions were created:
 * [`/group_work`](https://github.com/skibodaria/cayenne-clusters-m1-python-disney-project/tree/main/group_work) holds the Jupyter Notebooks of each team member;
 * [`/additional_files`](https://github.com/skibodaria/cayenne-clusters-m1-python-disney-project/tree/main/additional_files) contains some more information about **lambda functions**;
 * final results, presented after the work wad complited, can be found in [`presentation_disney.ipynb`](https://github.com/skibodaria/cayenne-clusters-m1-python-disney-project/blob/main/presentation_disney.ipynb)
+
+## Links
+The original [repo](https://github.com/skibodaria/cayenne-clusters-m1-python-disney-project/tree/main) was provided as a part of the curriculum at Spiced Academy and might not be available for non-members of organization.
